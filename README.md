@@ -1,7 +1,7 @@
 <div align="center">
   
  
-<a href="#"><img src="https://cdn.dribbble.com/users/219482/screenshots/14676444/media/28fa0b64b0454de0d0664e364e4f95fc.gif"></a>
+<a href="#"><img width="350px" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif"></a>
 
   
 </div>
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **grovertabu@gmail.com**
 
-- ⚡ Fun fact **I like music**
+- ⚡ Fun fact **I like music and admin linux**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
