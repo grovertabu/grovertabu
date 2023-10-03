@@ -36,5 +36,5 @@
    <img height="200" src="https://github-readme-stats.vercel.app/api?username=grovertabu&theme=tokyonight&show_icons=true&locale=en"></p>
 
 
-   
+![github-contribution-grid-snake](https://github.com/grovertabu/grovertabu/assets/43526964/22c5b817-2571-4900-b7b5-8d4fbebcab29)
 
